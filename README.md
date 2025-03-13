@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
 <br>
 ### Libraries and Frameworks:
-
+<br>
 ### Databases:
