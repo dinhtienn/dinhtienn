@@ -1,11 +1,16 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Đinh Quang Tiến
+</h1>
 
+- 🌍 Based in Viet Nam
+- 👨‍🎓 Computer Science student at VNU University of Science (HUS)
+- 📫 How to reach me: [qtien11111@gmail.com](mailto:qtien11111@gmail.com)
 
 <!--
 **dinhtienn/dinhtienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🖥️ Portfolio: 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -30,7 +35,6 @@ Here are some ideas to get you started:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/numpy.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/pandas.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/pytorch.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/opencv.svg" />
 <br>
 
 ### Databases:
